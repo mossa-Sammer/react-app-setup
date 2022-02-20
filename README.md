@@ -93,3 +93,11 @@ use: {
 https://media.giphy.com/media/oe33xf3B50fsc/giphy.gif
 
 16- you can now add more plugins for css, images, svg react compponents and more...
+
+17- to add typescript, install the follwing packages:
+
+```
+npm install -D typescript @types/react @types/react-dom
+```
+
+18- npx tsc --init
